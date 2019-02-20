@@ -1,6 +1,6 @@
 # kaprekar_R
 Calculating and visualizing Kaprekar constant (6174) using R
-Reference to blog: (https://wordpress.com/post/tomaztsql.wordpress.com/5206).
+Reference to blog: (https://tomaztsql.wordpress.com/2019/02/20/number-6174-or-kaprekar-constant-in-r/).
 
 Kaprekar number is one of those gems, that makes Mathematics fun. Indian recreational mathematician D.R.Kaprekar, found number 6174 – also known as Kaprekar constant – that will return the subtraction result when following this rules:
 
