@@ -11,13 +11,13 @@ Kaprekar number is one of those gems, that makes Mathematics fun. Indian recreat
 
 In practice, e.g.: number 5462, the steps would be:
 
-6542 - 2456 = 4086
-8640 -  468 = 8172
-8721 - 1278 = 7443
-7443 - 3447 = 3996
-9963 - 3699 = 6264
-6642 - 2466 = 4176
-7641 - 1467 = 6174
+6542 - 2456 = 4086   
+8640 -  468 = 8172   
+8721 - 1278 = 7443   
+7443 - 3447 = 3996   
+9963 - 3699 = 6264   
+6642 - 2466 = 4176   
+7641 - 1467 = 6174   
 
 ## Structure
 
